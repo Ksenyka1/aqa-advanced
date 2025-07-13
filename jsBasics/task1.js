@@ -1,4 +1,4 @@
-let myString = "Good morning";
+let myString = "Good day";
 let myNumber = 10;
 let myBoolean = true;
 let myNull = null;               
