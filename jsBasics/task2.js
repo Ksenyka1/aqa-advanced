@@ -1,4 +1,4 @@
-const person1 = "Mark";
+const person1 = "Marko";
 const person2 = "Petro";
 
 const greetingConcat = "Hello, " + person1 + " and " + person2 + "!";
